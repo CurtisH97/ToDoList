@@ -1,0 +1,28 @@
+table {
+    
+    border-spacing: 0 0px;
+    margin-top: -20px;
+  }
+  
+  th {
+    background-color: #4287f5;
+    color: white;
+  }
+  
+  th,
+  td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  h1 {
+    color: #4287f5;
+  }
+
+  div {
+    margin-left: 325px;
+    margin-top: 15px;
+    
+  }
